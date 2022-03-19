@@ -1,0 +1,31 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "hogehoge",
+            "author": "Alice "
+        },
+        {
+            "id": 9,
+            "title": "piyopiyo",
+            "author": "Bob"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment 1",
+            "postId": 1
+        },
+        {
+            "id": 2,
+            "body": "some comment 2",
+            "postId": 1
+        },
+        {
+            "id": 3,
+            "body": "some comment 3",
+            "postId": 9
+        }
+    ]
+}
